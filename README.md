@@ -1,5 +1,7 @@
 # sentivision
 
+Submission for the **2023 UVA HooHacks Hackathon**
+
 Estimates verbal sincerity by combining computer vision and natural language processing.
 
 [Link to Devpost submission](https://devpost.com/software/sentivision)
